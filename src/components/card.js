@@ -1,7 +1,7 @@
 
 function component(){
     return (
-        <div className="Card">
+        <div className="Card-test">
           <p>alegria</p>
         </div>
       )
