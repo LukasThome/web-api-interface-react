@@ -1,1 +1,1 @@
-Layout usando react
+Layout simples usando react
